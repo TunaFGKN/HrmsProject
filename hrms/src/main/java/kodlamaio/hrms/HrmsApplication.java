@@ -27,3 +27,4 @@ public class HrmsApplication {
     }
 
 }
+// Proje yeni github repository'sine aktarıldı.
